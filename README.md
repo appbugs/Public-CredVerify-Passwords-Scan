@@ -24,3 +24,6 @@ A production run of the script could be implemented as following
 ```9B79BC21E6C52C406B24BDA4A175BF82EF70337A, No```  
 ```0C87E860D25CE07198652972B42649F3B940BBCB, No```  
 ```6ADFB183A4A2C94A2F92DAB5ADE762A47889A5A1, Yes```  
+
+### Note:
+Please also reference VeriClouds project [VeriClouds-Extension-for-Exchange-Server](https://github.com/appbugs/VeriClouds-Extension-for-Exchange-Server) to see how to retrieve password hash from Active Directory and update Exchange service with leaked password info. The API service in VeriClouds-Extension-for-Exchange-Server project is deprecated and has been replaced by VeriClouds Password API. 
